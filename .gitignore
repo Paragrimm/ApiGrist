@@ -1,0 +1,20 @@
+.tmp
+.DS_Store
+project.godot
+
+/.import
+/.vscode
+/default_env.tres
+/default_bus_layout.tres
+/icon.svg
+/icon.png
+/icon.png.import
+/icon.svg.import
+export_presets.cfg
+
+# Only add api_grist plugin 
+/addons/*
+!/addons/api_grist
+
+# Godot 4 specific
+.godot
